@@ -1,0 +1,9 @@
+/* For styling the rendered Markdown */
+
+body {
+font-family:"Garamond";
+font-size: 18px;
+}
+a {
+text-decoration:none;
+}

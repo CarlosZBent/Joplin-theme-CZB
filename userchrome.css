@@ -1,0 +1,61 @@
+/* For styling the entire Joplin app (except the rendered Markdown, which is defined in `userstyle.css`) */
+.title-input {
+	font-family: "Garamond";
+	font-size: 24px;
+}
+.editor-toolbar {
+	justify-content: center;
+	border-radius: 10px;
+	flex: none !important;
+	width: fit-content;
+	margin: auto;
+	padding: 3px;
+/*	box-shadow: 0px 2px 5px 2px #e7e7e7;
+	margin: 5px auto;*/
+}/*
+.tox.tbtn{
+	padding: 3px;
+}
+.sc-fznJRM{
+	/*top-right toolbar and time info container
+	width: 30% !important;
+	display: flex;
+	justify-content: space-evenly !important;
+}*/
+.sidebar {
+	/**/
+}
+.title {
+	/*font-family: "Garamond";*/
+
+}
+
+.selected {
+	border-radius: 15px;
+	font-weight: bold;
+}
+.list-item-container:hover {
+	border-radius: 15px;
+	width: 100%;
+	background-color: #e7e7e7;
+}
+.jBRUMO {
+	border-radius: 10px !important;
+	border-width: 0px !important;
+	border-style: none !important;
+	box-shadow: 0px 3px 6px 4px #272727;
+}
+.sc-AxiKw {
+	/*sync button inner text*/
+	font-family: "Consolas";
+}
+.sc-fzoYkl{
+	/*sync text*/
+	font-family: "Consolas";
+}
+.note-list {
+	/**/
+}
+.iYSxvg::before {
+	border-bottom: none !important;
+}
